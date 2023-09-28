@@ -20,7 +20,7 @@ trait CartTrait
 
 
 
-        return response()->json(['message' => 'تمت إزالة المنتج من السلة بنجاح']);
+        return response()->json(['message' => 'تمت إزالة المنتج  بنجاح']);
     }
 
 
